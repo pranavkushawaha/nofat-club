@@ -254,15 +254,3 @@ body{
     padding: 0 5% 0 0;
     color: gray;
 }
-
-@media (max-device-width : 1000px) {
-    .hatao{
-        display: none;
-    }
-    .hero-img{
-        width: 90vw;
-    }
-    .join-section{
-        position: static;
-    }
-}
