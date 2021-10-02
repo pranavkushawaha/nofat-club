@@ -1,8 +1,8 @@
 # nofat-club
 
-This is a website for Fitness Freaks !!!! 
+This is a website for Fitness Freaks !!!! Stay tuned for more awesome content....
 
 It has good collection of fitness data and amazing facts.
 
-Check ot the website at:
+Take a look at the website on:
 https://pranavkushawaha.github.io/nofat-club/
